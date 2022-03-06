@@ -4,7 +4,7 @@ Installation
 
 Prerequisites for any OS: Install POSTMAN to run.
 
-Clone the repository: & git clone 
+Clone the repository: & git clone https://github.com/ruekas/TecBeatsAPIAutomation.git
 
 Set up
 
