@@ -12,7 +12,7 @@ Open Postman
 
 Select Collections from the bar at the left, then click on Import - select Files and get the file ApiAutomation.json imported
 
-Select Environments from the bat the left, then click on Import - select Files and get the file ApiEnvironment.json imported
+Select Environments from the bar at the left, then click on Import - select Files and get the file ApiEnvironment.json imported
 
 Run
 
